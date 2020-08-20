@@ -1,2 +1,2 @@
-# vsc
-video summarizaiton and caption
+# ChinaMM2020《融合语义信息的视频摘要生成》
+demo展示请点击视频查看
