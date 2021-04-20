@@ -1,0 +1,20 @@
+max_sen: 30
+word_dim: 512
+vid_dim: 1024
+vid_len: 1300
+se:
+  num_layer: 1
+  hidden: 256
+ve:
+  v_hidden: [128, 256]
+  t_hidden: [128, 256]
+  kl_loss: False
+cap:
+  hidden: 512
+  num_layer: 1
+  rnn_type: lstm
+  rnn_dropout: 0.2
+loss:
+  weight_vis: 1
+  weight_gen: 1
+  weight_sum: 1
