@@ -4,8 +4,7 @@
 
 ##    关于数据
 ###   视频数据  
-视频数据来源为通用的GoogLeNet提取好的特征，  
-链接在[vsumm-reinforce](https://github.com/huarui1996/pytorch-vsumm-reinforce)。  
+视频数据来源为通用的GoogLeNet提取好的特征，链接在[vsumm-reinforce](https://github.com/huarui1996/pytorch-vsumm-reinforce)。  
 之前各个项目的issue里都有很多人表示找不到SumMe和TvSum的原始数据，  
 这里我分别将它们找到了并上传到了百度网盘：  
 [SumMe](https://pan.baidu.com/s/1OzC788NS5RV5YeKf5KLZAQ) 提取码: ap48 [TVSum](https://pan.baidu.com/s/1iKh2jxr71f82w87rdg5UzA) 提取码: 3ywy  
